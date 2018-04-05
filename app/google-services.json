@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "707665550856",
+    "firebase_url": "https://carmanager-2ea6b.firebaseio.com",
+    "project_id": "carmanager-2ea6b",
+    "storage_bucket": "carmanager-2ea6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707665550856:android:11bbef4ec5ea81ad",
+        "android_client_info": {
+          "package_name": "victor.com.carmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707665550856-qnmc4vumo2i0rdftd1vkjt05mmv4di3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "victor.com.carmanager",
+            "certificate_hash": "7eac508138ed72041c598ffff28a3bac2f2879dd"
+          }
+        },
+        {
+          "client_id": "707665550856-o5d4ibfap0vmgv7too574bnk5k10e6fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBezQPiP2uNKEUiCw3wcvpADtFMiIPQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707665550856-o5d4ibfap0vmgv7too574bnk5k10e6fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707665550856:android:34c2cd090c8d3814",
+        "android_client_info": {
+          "package_name": "com.torrens.victor.carmanagerv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707665550856-1mg84r8q5ghjcoi5f40n81ummbvd6qo7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.torrens.victor.carmanagerv2",
+            "certificate_hash": "7eac508138ed72041c598ffff28a3bac2f2879dd"
+          }
+        },
+        {
+          "client_id": "707665550856-3fncqe7j44befvlhqg54tit82tortu04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.torrens.victor.carmanagerv2",
+            "certificate_hash": "4a6e6e0322edbcfcb32e1fa5747c69540cfc020e"
+          }
+        },
+        {
+          "client_id": "707665550856-o5d4ibfap0vmgv7too574bnk5k10e6fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBezQPiP2uNKEUiCw3wcvpADtFMiIPQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707665550856-o5d4ibfap0vmgv7too574bnk5k10e6fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

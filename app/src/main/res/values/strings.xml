@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Parking Manager</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <!-- Strings related to login -->
+    <string name="connectedBluetooh">Bonded Bluetooh Devices</string>
+    <string name="mi_coche">Bluetooh Devices</string>
+    <string name="historial">Parking Log</string>
+    <string name="acerca_de">About</string>
+    <string name="desconectar_cuenta">LogOut</string>
+    <string name="imagen_logo" translatable="false">Imagen Logo</string>
+    <string name="actBlue">Turn on Bluetooh Service</string>
+    <string name="desBlue">Turn of Bluetooh Service</string>
+    <string name="blueServicio">Selected Device</string>
+    <string name="desService">Service Deactivated</string>
+    <string name="serDetenido">Service Stopped</string>
+    <string name="developed">Developed by</string>
+    <string name="savedLoacation">Saved Location</string>
+    <string name="car">My Car</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="msgGPS">GPS services is turned off. This app needs to acces the location services. Please turn them on.</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

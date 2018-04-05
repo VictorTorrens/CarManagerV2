@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parking Manager</string>
+    <string name="connectedBluetooh">Dispositius Bluetooh Connectats</string>
+    <string name="mi_coche">Dispositius Bluetooh</string>
+    <string name="historial">Historial</string>
+    <string name="acerca_de">Sobre l\'app</string>
+    <string name="desconectar_cuenta">Tancar Sessió</string>
+    <string name="actBlue">Activar Servei Bluetooh</string>
+    <string name="desBlue">Desactivar Servei Bluetooh</string>
+    <string name="blueServicio">Dispositiu Connectat</string>
+    <string name="desService">Servei Desactivat</string>
+    <string name="serDetenido">Servei Parat</string>
+    <string name="developed">Desenvolupat per</string>
+    <string name="cancel">Ignorar</string>
+    <string name="car">El meu Coche</string>
+    <string name="ok">Val</string>
+    <string name="savedLoacation">Ubicacio guardada</string>
+    <string name="msgGPS">El servei GPS es troba apagat. Aquesta aplicació necessita aquestos serveis per a poder funcionar. Perfavor, encent-los</string>
+</resources>

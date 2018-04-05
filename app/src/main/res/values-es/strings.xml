@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parking Manager</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="connectedBluetooh">Dispositivos Bluetooh Conectados</string>
+    <string name="mi_coche">Dispositivos Bluetooh</string>
+    <string name="historial">Historial</string>
+    <string name="desconectar_cuenta">Desconectar Cuenta</string>
+    <string name="actBlue">Activar Servicio Bluetooh</string>
+    <string name="desBlue">Desctivar Servicio Bluetooh</string>
+    <string name="blueServicio">Dispositivo Conectado</string>
+    <string name="desService">Servicio Desactivado</string>
+    <string name="serDetenido">Servicio Parado</string>
+    <string name="developed">Desarrollado por</string>
+    <string name="cancel">Cerrar</string>
+    <string name="car">Mi Coche</string>
+    <string name="ok">Vale</string>
+    <string name="savedLoacation">Ubicacion Guardada</string>
+    <string name="msgGPS">Los servicios de ubicación se encuentran apagados. Esta aplicacion necesita estos servicios para funcionar correctamente. Porfavor activalo.</string>
+</resources>

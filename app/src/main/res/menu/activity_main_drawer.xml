@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/my_car"
+            android:icon="@drawable/iconocoche"
+            android:title="@string/mi_coche" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/iconohistorial"
+            android:title="@string/historial" />
+        <item
+            android:id="@+id/acerca"
+            android:icon="@drawable/about"
+            android:title="@string/acerca_de" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/iconosalir"
+            android:title="@string/desconectar_cuenta" />
+
+    </group>
+
+</menu>
